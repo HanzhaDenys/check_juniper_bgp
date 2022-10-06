@@ -41,7 +41,7 @@ print_usage() {
   echo "  $PROGNAME -i <peer ip>"
   echo
   echo "Example:"
-  echo "  $PROGNAME -H 91.236.251.6 -c pub4MRTG -i 91.236.251.3"
+  echo "  $PROGNAME -H 12.23.34.45 -c comm -i 23.34.45.56"
   echo
   exit 3
 }
